@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Koshi\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\exploded-aar\com.android.support.test.uiautomator\uiautomator-v18\2.1.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d9ebd18603c0013727799e7ed41bcb42f3df75c0">
+        <dex dex="C:\Users\Koshi\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test.uiautomator-uiautomator-v18-2.1.2_5c33567dc2adc0686f89958f9dc5b835796aab02.jar" />
+    </item>
+    <item
+        jar="C:\Users\Koshi\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="C:\Users\Koshi\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\javax.annotation-api-1.2_093f665c5b53621e73deaa0e48b8ae09b586a21c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Koshi\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="C:\Users\Koshi\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-integration-1.3_ac688bab74fd5312ea12d19e1e0593805fa9b254.jar" />
+    </item>
+    <item
+        jar="C:\Users\Koshi\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="C:\Users\Koshi\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\javawriter-2.1.1_4c46c35fb1b80365aba5bd2781a41b7f4d936880.jar" />
+    </item>
+    <item
+        jar="C:\Users\Koshi\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\exploded-aar\com.android.support.test\exposed-instrumentation-api-publish\0.4.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e1d90a3498ab7a4b68ea6e936e71cf7f4e95453f">
+        <dex dex="C:\Users\Koshi\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test-exposed-instrumentation-api-publish-0.4.1_9289efe6526a78dbc623a4e7b747ab74702002a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Koshi\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-core\2.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="25a72389e79fbac13f78412a4a6ffacc1cdb0673">
+        <dex dex="C:\Users\Koshi\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test.espresso-espresso-core-2.2.1_c30092bbfb4a6883f001d1e32e8766f0de48b578.jar" />
+    </item>
+    <item
+        jar="C:\Users\Koshi\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\exploded-aar\com.android.support.test\runner\0.4.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f607369e68cb756b3f8f523403e3d80433a68aa1">
+        <dex dex="C:\Users\Koshi\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test-runner-0.4.1_82c49de4ffd82e8daec7a756320368f3bfb291c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Koshi\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\exploded-aar\com.android.support.test\rules\0.4.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4805433aedef15e73a7eedf7e3496eb4363a583">
+        <dex dex="C:\Users\Koshi\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test-rules-0.4.1_8e39db9fc751058e2bb9a63afff95cb1c4e76ae3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Koshi\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-idling-resource\2.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="83e81537012f1975aa902eedbdb8da5aa515aea5">
+        <dex dex="C:\Users\Koshi\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test.espresso-espresso-idling-resource-2.2.1_9285b0b45056f3f0e326cb0f48b1db93d3d7d209.jar" />
+    </item>
+    <item
+        jar="C:\Users\Koshi\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="C:\Users\Koshi\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-library-1.3_cf88904b4d71121b94a00aca3a6d7e7d3a2acfc4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Koshi\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Koshi\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\javax.inject-1_87328bb8a62a4109c73285cb786d9f963f27f376.jar" />
+    </item>
+    <item
+        jar="C:\Users\Koshi\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\Koshi\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\jsr305-2.0.1_76854ba92d83e478d9fa1b8ef284411e135c02c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Koshi\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Users\Koshi\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-core-1.3_94d884a9dc060e3d5efc758d5cc4c6ad7863a312.jar" />
+    </item>
+    <item
+        jar="C:\Users\Koshi\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\Koshi\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\junit-4.12_c00e0c1477a20a2b88d56621b95b233c78ee0b3c.jar" />
+    </item>
+
+</items>
